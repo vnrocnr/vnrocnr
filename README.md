@@ -4,7 +4,7 @@
 👩‍💻 Frontend Developer who loves transforming UI/UX Designs into a functional and intuitive websites. <br/>
 ⚙️ Current Techstack: VueJS, Tailwind CSS, JavaScript, and Pinia. <br/>
 🎓 Studied BSIT at the University of Makati<br/>
-🌱 I'm currently learning UI/UX Designs to upskill.<br/>
+🌱 I'm currently learning UI/UX Designs, React.js and Three.js to upskill.<br/>
 ⚡ I do edit videos, manipulate photos, and taking breathtaking photos and videos for memories.<br/>
 
 💬 Online Portfolio: https://venar-dev.netlify.app/<br/>

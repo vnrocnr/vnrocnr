@@ -7,7 +7,7 @@
 🌱 I'm currently learning UI/UX Designs, React.js and Three.js to upskill.<br/>
 ⚡ I do edit videos, manipulate photos, and taking breathtaking photos and videos for memories.<br/>
 
-💬 Online Portfolio: https://venar-dev.netlify.app/<br/>
+💬 Online Portfolio: https://venar.netlify.app/<br/>
 
 # 💻 Tech Stack:
 
